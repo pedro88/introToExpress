@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Tiramisu",
+		"timeToPrepare": "60min",
+		"ingredents": ["Mascarpone", "Eggs", "Sugar", "Coffee", "Biscuit"],
+		"steps": ["Prepare eggs", "Mix with sugar", "Make the tiramisu"]
+	},
+	{
+		"name": "AppleCake",
+		"timeToPrepare": "30min",
+		"ingredents": ["Apple", "Eggs", "Sugar", "Milk", "Flour"],
+		"steps": ["Prepare eggs", "Mix with sugar", "Make the AppleCake"]
+	},
+	{
+		"name": "CherryCake",
+		"timeToPrepare": "30min",
+		"ingredents": ["Cherry", "Eggs", "Sugar", "Milk", "Flour"],
+		"steps": ["Prepare eggs", "Mix with sugar", "Make the CherryCake"]
+	},
+	{
+		"name": "CheeseCake",
+		"timeToPrepare": "30min",
+		"ingredents": ["Cheese", "Eggs", "Sugar", "Milk", "Flour"],
+		"steps": ["Prepare eggs", "Mix with sugar", "Make the CheeseCake"]
+	}
+]
